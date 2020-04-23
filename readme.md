@@ -13,4 +13,4 @@
 ---
 
 author: [elias alexandre](https://github.com/eliasallex)
-créditos: [Mayk brito]()
+créditos: [Mayk brito](https://gist.github.com/maykbrito/f3744039fcc20db62d6cfd502aa2bc86)
