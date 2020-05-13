@@ -1,3 +1,5 @@
+/* whimsical.com */
+
 html {
   height: 100%;
   font-family: "Montserrat";
@@ -74,11 +76,11 @@ label::after {
   transition: 0.3s;
 }
 
-input:checked + label {
+input:checked+label {
   background-color: var(--color-headings);
 }
 
-input:checked + label::after {
+input:checked+label::after {
   left: calc(100% - 5px);
   transform: translateX(-100%);
 }
